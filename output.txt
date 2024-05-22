@@ -1,0 +1,130 @@
+   before SORT: 
+Name of deposit: Save_up_money_for_a_vacation
+Sum of deposit: 18000.7
+Unit of money: Russian_Rubles
+Stavka of deposit: 1.05 %
+
+Name of deposit: Money_for_New_Year's_gifts
+Sum of deposit: 350
+Unit of money: Japanese_Yens
+Stavka of deposit: 0.35 %
+
+Name of deposit: Money_for_studying
+Sum of deposit: 40005
+Unit of money: Korean_Won
+Stavka of deposit: 5.003 %
+
+Name of deposit: Money_for_remont
+Sum of deposit: 789.15
+Unit of money: Geargian_Lary
+Stavka of deposit: 0.98 %
+
+Name of deposit: Money_for_car
+Sum of deposit: 98765
+Unit of money: Uzbek_sum
+Stavka of deposit: 14 %
+
+   after SORT: 
+Name of deposit: Money_for_New_Year's_gifts
+Sum of deposit: 350
+Unit of money: Japanese_Yens
+Stavka of deposit: 0.35 %
+
+Name of deposit: Money_for_remont
+Sum of deposit: 789.15
+Unit of money: Geargian_Lary
+Stavka of deposit: 0.98 %
+
+Name of deposit: Save_up_money_for_a_vacation
+Sum of deposit: 18000.7
+Unit of money: Russian_Rubles
+Stavka of deposit: 1.05 %
+
+Name of deposit: Money_for_studying
+Sum of deposit: 40005
+Unit of money: Korean_Won
+Stavka of deposit: 5.003 %
+
+Name of deposit: Money_for_car
+Sum of deposit: 98765
+Unit of money: Uzbek_sum
+Stavka of deposit: 14 %
+
+   Vector copied from List: 
+Name of deposit: Money_for_New_Year's_gifts
+Sum of deposit: 350
+Unit of money: Japanese_Yens
+Stavka of deposit: 0.35 %
+
+Name of deposit: Money_for_remont
+Sum of deposit: 789.15
+Unit of money: Geargian_Lary
+Stavka of deposit: 0.98 %
+
+Name of deposit: Save_up_money_for_a_vacation
+Sum of deposit: 18000.7
+Unit of money: Russian_Rubles
+Stavka of deposit: 1.05 %
+
+Name of deposit: Money_for_studying
+Sum of deposit: 40005
+Unit of money: Korean_Won
+Stavka of deposit: 5.003 %
+
+Name of deposit: Money_for_car
+Sum of deposit: 98765
+Unit of money: Uzbek_sum
+Stavka of deposit: 14 %
+
+   from set: 
+Name of deposit: Money_for_New_Year's_gifts
+Sum of deposit: 350
+Unit of money: Japanese_Yens
+Stavka of deposit: 0.35 %
+
+Name of deposit: Money_for_remont
+Sum of deposit: 789.15
+Unit of money: Geargian_Lary
+Stavka of deposit: 0.98 %
+
+Name of deposit: Save_up_money_for_a_vacation
+Sum of deposit: 18000.7
+Unit of money: Russian_Rubles
+Stavka of deposit: 1.05 %
+
+Name of deposit: Money_for_studying
+Sum of deposit: 40005
+Unit of money: Korean_Won
+Stavka of deposit: 5.003 %
+
+Name of deposit: Money_for_car
+Sum of deposit: 98765
+Unit of money: Uzbek_sum
+Stavka of deposit: 14 %
+
+   from unordored_set: 
+Name of deposit: Save_up_money_for_a_vacation
+Sum of deposit: 18000.7
+Unit of money: Russian_Rubles
+Stavka of deposit: 1.05 %
+
+Name of deposit: Money_for_New_Year's_gifts
+Sum of deposit: 350
+Unit of money: Japanese_Yens
+Stavka of deposit: 0.35 %
+
+Name of deposit: Money_for_studying
+Sum of deposit: 40005
+Unit of money: Korean_Won
+Stavka of deposit: 5.003 %
+
+Name of deposit: Money_for_remont
+Sum of deposit: 789.15
+Unit of money: Geargian_Lary
+Stavka of deposit: 0.98 %
+
+Name of deposit: Money_for_car
+Sum of deposit: 98765
+Unit of money: Uzbek_sum
+Stavka of deposit: 14 %
+
